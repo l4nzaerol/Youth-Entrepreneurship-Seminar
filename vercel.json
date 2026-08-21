@@ -1,4 +1,5 @@
 {
-  "buildCommand": "npm run build",
-  "outputDirectory": "dist"
+  "installCommand": "cd student-leaders && npm ci",
+  "buildCommand": "cd student-leaders && npm run build",
+  "outputDirectory": "student-leaders/dist"
 }
