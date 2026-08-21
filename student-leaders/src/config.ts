@@ -1,11 +1,11 @@
 /**
  * Update these values for your seminar.
- * Drop the official e-cert template at public/img/STUDENT INV.png
+ * Drop the official e-cert template at public/img/YOUTH ENTREP.png
  * and set `useCustomTemplate` to true. Name placement is in fractions of
  * the template width/height so it stays aligned at any download size.
  */
 export const seminar = {
-  title: "YOUTH-EMPLOYMENT SEMINAR",
+  title: "YOUTH ENTREPRENEUR FORUM",
   tagline: "",
   subtitle: "Certificate of Participation",
   dateLabel: "Youth Month 2026",
@@ -13,10 +13,10 @@ export const seminar = {
 };
 
 const DEFAULT_FEEDBACK_FORM_URL =
-  "https://docs.google.com/forms/d/e/1FAIpQLSchb_MVj9PoZNhDs1fVmWOqY-oO5ve-mrfKH6usPBNhcRc9GA/viewform";
+  "https://docs.google.com/forms/d/e/1FAIpQLSeO9J_sF9W3H8EiYxRxFQHG40n-gmxgBoYsPEYFtIqH_Ly65Q/viewform";
 
 /** Spreadsheet ID and sheet GID from the responses spreadsheet URL */
-const SPREADSHEET_ID = "1PQp0VA6kn7l-KKOb_4IRXrg26hUDHt65LJ-lXbXHQSE";
+const SPREADSHEET_ID = "1aBE6BeCPPXSThAZiwXXP34xzBIar1FKM2zU9kGr4wmk";
 const SHEET_GID = "0";
 
 export const lookup = {
@@ -28,7 +28,7 @@ export const lookup = {
 export const certificateLayout = {
   /** Set true after you add the official template to public/img/ */
   useCustomTemplate: true,
-  templateUrl: "/img/YOUTH-EMPLOYMENT.png",
+  templateUrl: "/img/YOUTH ENTREP.png",
   /** Landscape certificate size in CSS pixels (also PNG export size). */
   width: 2000,
   height: 1414,

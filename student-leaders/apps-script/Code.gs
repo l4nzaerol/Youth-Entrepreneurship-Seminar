@@ -18,7 +18,7 @@
 
 const CONFIG = {
   /** Spreadsheet ID from the URL: https://docs.google.com/spreadsheets/d/<ID>/edit */
-  spreadsheetId: "1uKvuSwkBpDyTbkVsRTG6aqMG8YEK7334K30A8U26jSw",
+  spreadsheetId: "1aBE6BeCPPXSThAZiwXXP34xzBIar1FKM2zU9kGr4wmk",
   /** Matches the Form question "Full Name:" (colon optional in the sheet header) */
   nameHeader: "Full Name:",
   /** Matches the Form question "Email Address" */

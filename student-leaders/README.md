@@ -51,11 +51,11 @@ Turn `sendEmailWithLink` to `true` if you also want a personalized token link em
 
 Public form (use this in the confirmation message and `.env`):
 
-https://docs.google.com/forms/d/e/1FAIpQLScqla-k7CPjSKDP73qvPELWads4orb4toUgA3f6e27thYcErw/viewform
+https://docs.google.com/forms/d/e/1FAIpQLSeO9J_sF9W3H8EiYxRxFQHG40n-gmxgBoYsPEYFtIqH_Ly65Q/viewform
 
 Editor link:
 
-https://docs.google.com/forms/d/e/1FAIpQLScqla-k7CPjSKDP73qvPELWads4orb4toUgA3f6e27thYcErw/viewform
+https://docs.google.com/forms/d/e/1FAIpQLSeO9J_sF9W3H8EiYxRxFQHG40n-gmxgBoYsPEYFtIqH_Ly65Q/viewform
 
 Name on the certificate comes from **Full Name:**. Lookup uses **Email Address**.
 
